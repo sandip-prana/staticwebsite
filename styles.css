@@ -18,6 +18,7 @@ button {
   font-size: 16px;
   margin-top: 20px;
   cursor: pointer;
-  color:blue;
+  color: red;
+  border: blue;
 }
 
